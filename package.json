@@ -1,6 +1,6 @@
 {
     "name": "@paulhfischer/eslint-config-typescript-react",
-    "version": "1.15.3",
+    "version": "1.15.4",
     "description": "ESLint-config for typed React projects.",
     "main": "index.js",
     "author": "Paul Fischer <paul.fischer@mailbox.org>",
